@@ -1,0 +1,28 @@
+body{
+    background-color: gray;
+}
+
+header{
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 200px;
+    
+}
+
+header > img {
+    height: 200px;
+    width: 200px;
+    
+}
+
+header nav > a:link{
+ text-decoration: nome;
+
+}
+
+.caixacentral{
+    background-color: darkolivegreen;
+        height: 67vh;
+}
